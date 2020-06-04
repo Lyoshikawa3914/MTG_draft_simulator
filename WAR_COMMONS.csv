@@ -1,0 +1,146 @@
+Name,Color,CMC,Cost,Rarity,Type 1,Type 2,Sub Type 1,Sub Type 2,P,T,Text,SM,SM#,LR,LR#,DA
+Ob Nixilis's Cruelty,B,3,2B,C,,Instant,,,,,"Target Creature gets -5/-5 until end of turn. If that creature would die this turn, exile it instead.",B,3,B+,3.33,16
+Trusted Pegasus,W,3,2W,C,,Creature,Pegasus,,2,2,"Flying
+ Whenever Trusted Pegasus attacks, target attacking creature without flying gains flying until end of turn.",C+,2.33,B,3,28
+Spark Harvest,B,1,B,C,,Sorcery,,,,,"As an additional cost to cast this spell, sacrifice a creature or pay 3B.
+ Destroy target creature or planeswalker.",C+,2.33,C+,2.33,40
+Jaya's Greeting,R,2,1R,C,,Instant,,,,,Jaya's Greeting deals 3 damage to target creature. Scry 1,B-,2.66,B,3,44
+Law-Rune Enforcer,W,1,W,C,,Creature,Human,Soldier,1,2,"1, T: Tap target creature with converted mana cost 2 or greater.",C+,2.33,B,3,53
+Divine Arrow,W,2,1W,C,,Instant,,,,,Divine Arrow deals 4 damage to target attacking or blocking creature.,C+,2.33,C+,2.33,58
+Bloom Hulk,G,4,3G,C,,Creature,Plant,Elemental,4,4,"When Bloom Hulk enters the battlefield, proliferate.",C+,2.33,C+,2.33,72
+Wanderer's Strike,W,5,4W,C,,Sorcery,,,,,"Exile target creature, then proliferate.",B-,2.66,C+,2.33,77
+Aven Eternal,U,3,2U,C,,Creature,Zombie,Bird Warrior,2,2,"Flying
+ When Aven Eternal enters the battlefield, amass 1",C+,2.33,B-,2.66,80
+Band Together,G,3,2G,C,,Instant,,,,,Up to two target creatures you control each deal damage equal to their power to another creature,B-,2.66,C+,2.33,81
+Centaur Nurturer,G,4,3G,C,,Creature,Centaur,Druid,2,4,"When Centaur Nuturer enters the battlefield, you gain 3 life.
+ T: Add one mana of any color.",C,2,C+,2.33,82
+Kasmina's Transmutation,U,2,1U,C,,Enchantment,Aura,,,,"Enchant Creature
+ Enchanted creature loses all abilities and has a base power and toughness 1/1.",B-,2.66,C,2,87
+Spellgorger Weird,R,3,2R,C,,Creature,Weird,,2,2,"Whenever you cast a noncreature spell, put a +1/+1 counter on Spellgorger Weird",B-,2.66,C+,2.33,98
+Pollenbright Druid,G,2,1G,C,,Creature,Elf,Druid,1,1,"When Pollenbright Druid enters the battlefield, choose one - 
+ - Put a +1/+1 counter on target creature
+ - Proliferate",C,2,C,2,99
+Chandra's Pyrohelix,R,2,1R,C,,Instant,,,,,Chandra's Pyrohelix deals 2 damage divided as you choose among one or two targets.,C+,2.33,C+,2.33,100
+Heartfire,R,2,1R,C,,Instant,,,,,"As an additional cost to cast this spell, sacrifice a creature or planeswalker.
+ Heartfire deals 4 damage to any target.",C+,2.33,C/C+,2.25,104
+Thunder Drake,U,4,3U,C,,Creature,Elemental,Drake,2,3,"Flying
+ Whenever you cast your second spell each turn, put a +1/+1 counter on Thunder Drake.",C,2,C+,2.33,115
+Sorin's Thirst,B,2,BB,C,,Instant,,,,,Sorin's Thirst deals 2 damage to target creature and you gain 2 life.,C+,2.33,C+,2.33,117
+Erratic Visionary,U,2,1U,C,,Creature,Human,Wizard,1,3,"1U, T: Draw a card, then discard a card",C+,2.33,C,2,120
+Callous Dismissal,U,2,1U,C,,Sorcery,,,,,"Return target nonland permanent to it's owners hand.
+ Amass 1",C+,2.33,C-,1.66,121
+Vraska's Finisher,B,3,2B,C,,Creature,Gorgon,Assassin,3,2,"When Vraska's Finisher enters the battlefield, destroy target creature or planeswalker an opponent controls that was dealt damage this turn.",C,2,C,2,124
+Kronch Wrangler,G,2,1G,C,,Creature,Human,Warrior,2,1,"Trample
+ Whenever a creature with power 4 or greater enters the battlefield under your control, put a +1/+1 counter on Kronch Wrangler",C,2,C,2,125
+Lazotep Reaver,B,2,1B,C,,Creature,Zombie,Beast,1,2,"When Lazotep Reaver enters the battlefield, amass 1",C,2,C+,2.33,127
+Aid the Fallen,B,2,1B,C,,Sorcery,,,,,"Choose one or both -
+ - Return target creature card from your graveyard to your hand.
+ - Return target planeswalker card from your graveyard to your hand.",C-,1.66,D,1,128
+Vivien's Grizzly,G,3,2G,C,,Creature,Bear,Spirit,2,3,"3G: Look at the top card of your library. If it's a creature or planeswalker card, you may reveal it and put it into your hand. If you don't put the card into your hand, put it on the bottom of your library.",C,2,C,2,130
+Tamiyo's Epiphany,U,4,3U,C,,Sorcery,,,,,"Scry 4, then draw two cards.",C,2,B-,2.66,132
+Enforcer Griffin,W,5,4W,C,,Creature,Griffin,,3,4,Flying,C,2,C,2,135
+Herald of the Dreadhorde,B,4,3B,C,,Creature,Zombie,Warrior,3,2,"When Herald of the Dreadhorde dies, amass 2",C,2,C+,2.33,136
+Rising Populace,W,3,2W,C,,Creature,Human,,2,2,"Whenever another creature or planeswalker you control dies, put a +1/+1 counter on rising populace",C,2,C,2,137
+Snarespinner,G,2,1G,C,,Creature,Spider,,1,3,"Reach
+ When Snarspinner blocks a creature with flying, Snarspinner gets +2/+0 until end of turn.",C,2,C,2,144
+Martyr for the Cause,W,2,1W,C,,Creature,Human,Soldier,2,2,"When Martyr for the Cause dies, proliferate.",C,2,C-,1.66,145
+Mana Geode,-,3,3,C,,Artifact,,,,,"When Mana Geode Enters the battlefield, scry 1.
+ T: Add 1 mana of any color.",D,1,D,1,146
+Giant Growth,G,1,G,C,,Instant,,,,,Target creature gets +3/+3 until end of turn.,D+,1.33,C+,2.33,149
+Chainwhip Cyclops,R,5,4R,C,,Creature,Cyclops,Warrior,4,4,3R: Target creature can't blcok this turn.,C+,2.33,C-,1.66,150
+Tithebearer Giant,B,6,5B,C,,Creature,Giant,Warrior,4,5,"When Tithebearer Giant enters the battlefield, you draw a card and you lose 1 life.",D+,1.33,C,2,151
+Raging Kronch,R,3,2R,C,,Creature,Beast,,4,3,Raging Kronch can't attack alone,C+,2.33,C+,2.33,152
+Invading Manticore,R,6,5R,C,,Creature,Zombie,Manticore,4,5,"When Invading Manticore enters the battlefield, amass 2.",C,2,C,2,153
+New Horizons,G,3,2G,C,,Enchantment,Aura,,,,"Enchant Land
+ When New Horizons enters the battlefield, put a +1/+1 counter on target creature you control. 
+ Enchanted land has ""T: Add two mana of any one color.""",C,2,C-,1.66,157
+Turret Ogre,R,4,3R,C,,Creature,Ogre,Warrior,4,3,"Reach
+ When Turret Ogre enters the battlefield, if you control another creature with power 4 or greater, Turret Ogre deals 2 damage to each opponent.",C+,2.33,C,2,158
+Thundering Ceratok,G,5,4G,C,,Creature,Rhino,,4,5,"Trample
+ When Thundering Ceratok enters the battlefield, other creatures you control gain trample until end of turn.",C,2,C-,1.66,159
+Sky Theater Strix,U,2,1U,C,,Creature,Bird,,1,2,"Flying
+ Whenever you cast a noncreature spell, Sky Theater Strix get +1/+0 until end of turn.",C,2,D,1,161
+War Screecher,W,2,1W,C,,Creature,Bird,,1,3,"Flying
+ 5W, T: Other creatures you control get +1/+1 until end of turn.",C,2,C,2,162
+Spellkeeper Weird,U,3,2U,C,,Creature,Weird,,1,4,"2, T, Sacrifice Spellkeeper Weird: Return target instant or sorcery card from your graveyard to your hand.",C,2,C+,2.33,163
+Burning Prohet,R,2,1R,C,,Creature,Human,Wizard,1,3,"Whenever you cast a noncreature spell, burning prophet gets +1/+0 until end of turn, scry 1",C,2,C+,2.33,164
+Pouncing Lynx,W,2,1W,C,,Creature,Cat,,2,1,"As long as it's your turn, Pouncing lynx has first strike",C-,1.66,C/C+,2.25,165
+Arlinn's Wolf,G,3,2G,C,,Creature,Wolf,,3,2,Arlinn's Wolf can't be blocked by creatures with power 2 or less.,C-,1.66,C,2,166
+Spark Reaper,B,3,2B,C,,Creature,Zombie,,2,3,"3, Sacrifice a creature or planeswalker: You gain 1 life and draw a card.",C,2,C,2,167
+Makeshift Battalion,W,3,2W,C,,Creature,Human,Soldier,3,2,"Whenever Makeshift Battalion and at least two other creatures attack, put a +1/+1 counter on Makeshift Battalion.",C+,2.33,C,2,168
+Shriekdiver,B,3,2B,C,,Creature,Zombie,Bird Warrior,2,1,"Flying
+ 1: Shriekdiver gains haste until end of turn.",C,2,C,2,169
+Stealth Mission,U,3,2U,C,,Sorcery,,,,,Put two +1/+1 counters on target creature you control. That creature can't be blocked this turn.,C-,1.66,D,1,172
+No Escape,U,3,2U,C,,Instant,,,,,"Counter target creature or planeswalker spell. If that spell is countered this way, exile it instead of putting it in it's owners library.
+ Scry 1",D,1,C,2,174
+Ahn-Crop Invader,R,3,2R,C,,Creature,Zombie,Minotaur Warrior,2,2,"As long as it's your turn, Ahn-crop Invader has first strike. 
+ 1, sacrifice another creature: Ahn-Crop Invader gets +2/+0 until end of turn.",C-,1.66,C-,1.66,175
+Kraul Stinger,G,3,2G,C,,Creature,Insect,Assassin,2,2,Deathtouch,C,2,C,2,177
+Battlefield Promostion,W,2,1W,C,,Instant,,,,,Put a +1/+1 counter on target creature. That creature gains first strike until end of turn. You gain 2 life.,C+,2.33,C,2,178
+Guild Globe,-,2,2,C,,Artifact,,,,,"When Guild Globe enters the battlefield, draw a card.
+ 2, T: Sacrifice Guild Globe: Add two mana of different colors.",D-,0.66,C-,1.66,181
+Sarkhan's Catharsis,R,5,4R,C,,Instant,,,,,Sarkhan's Catharsis deals 5 damage to target player or planeswalker,D,1,D,1,182
+Gateway Plaza,-,-,-,-,,Land,,,,,"Gateway Plaza enters the battlefield tapped.
+ When Gateway Plaza enters the battlefield, sacrifice it unles you pay 1
+ T: Add one mana of any color.",D,1,D,1,183
+Honor the God-Pharaoh,R,3,2R,C,,Sorcery,,,,,"As an additional cost to cast this spell, discard a card.
+ Draw two cards. Amass 1",C-,1.66,D/C-,1.33,184
+Ashiok's Skulker,U,5,4U,C,,Creature,Nightmare,,3,5,3U: Ashiok's Skulker can't be blocked this turn.,C+,2.33,C-,1.66,185
+Crush Dissent,U,4,3U,C,,Instant,,,,,"Counter target spell unless its controller pays 2
+ Amass 2",C,2,C-,1.66,186
+Saheeli's Silverwing,-,4,4,C,Artifact,Creature,Drake,,2,3,"Flying
+ When Saheeli's Silverwing enters the battlefield, look at the top card of target opponent's library.",D+,1.33,D,1,189
+Contentious Plan,U,2,1U,C,,Sorcery,,,,,"Proliferate
+ Draw a card",C+,2.33,D+,1.33,191
+Kiora's Dambreaker,U,6,5U,C,,Creature,Leviathan,,5,6,"When Kiora's Dambreaker enters the battlefield, proliferate.",C,2,D+,1.33,193
+Duskmantle Operative,B,2,1B,C,,Creature,Human,Rogue,2,2,Duskmantle Operative can't be blocked by a creature with power 4 or greater.,C-,1.66,D,1,194
+Wardscale Crocodile,G,5,4G,C,,Creature,Crocodile,,5,3,Hexproof,C,2,D,1,196
+Teferi's Time Twist,U,2,1U,C,,Instant,,,,,"Exile target permanent you control. Return that card to the battlefield under its owner's control at the beginning of the next end step. If it enters the battlefield as a creature, it enters with an additional +1/+1 counter on it.",C,2,D+,1.33,197
+Courage in Crisis,G,3,2G,C,,Sorcery,,,,,"Put a +1/+1 counter on target creature, then proliferate.",C+,2.33,D,1,200
+Toll of the Invasion,B,3,2B,C,,Sorcery,,,,,"Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+ Amass 1.",D+,1.33,C+,2.33,203
+Grim Initiate,R,1,R,C,,Creature,Zombie,Warrior,1,1,"First Strike
+ When Grim Iniate dies, amass 1",D+,1.33,C-,1.66,204
+Totally Lost,U,5,4U,C,,Instant,,,,,Put target nonland permanent on top of its owner's library.,D+,1.33,D+,1.33,205
+Teyo's Lightshield,W,3,2W,C,,Creature,Illusion,,0,3,"When Teyo's Lightshield enters the battlefield, put a +1/+1 on target creature you control.",D,1,C,2,206
+Vampire Opportunist,B,2,1B,C,,Creature,Vampire,,2,1,6B: each opponent loses 2 life and you gain 2 life.,C-,1.66,C-,1.66,207
+Goblin Assault Team,R,4,3R,C,,Creature,Goblin,Warrior,4,1,"Haste
+ When Goblin Assault Team dies, put a +1/+1 counter on target creature you control.",D,1,D,1,209
+Lazotep Behemoth,B,5,4B,C,,Creature,Zombie,Hippo,5,4,,D,1,D/C-,1.33,210
+Defiant Strike,W,1,W,C,,Instant,,,,,"Target creature gets +1/+0 until end of turn.
+ Draw a card.",D+,1.33,D,1,214
+Relentless Advance,U,4,3U,C,,Sorcery,,,,,Amass 3,C,2,C,2,218
+Prismite,-,2,2,C,Artifact,Creature,,,2,1,2: Add 1 mana of any color,D,1,D,1,219
+Unlikely Aid,B,2,1B,C,,Instant,,,,,Target creature gets +2/+0 and gains indestructible until end of turn.,D+,1.33,D+,1.33,221
+Charity Extractor,B,4,3B,C,,Creature,Human,Knight,1,5,Lifelink,C-,1.66,C-,1.66,222
+Bulwark Giant,W,6,5W,C,,Creature,Giant,Soldier,3,6,"When Bulwark Giant enters the battlefield, you gain 5 life.",D+,1.33,D/D+,1.25,223
+Kaya's Ghostform,B,1,B,C,,Enchantment,Aura,,,,"Enchant creature or planeswalker you control
+ When enchanted permanent dies or is put into exile, return that card to the battlefield under your control.",D,1,D,1,225
+Arboreal Grazer,G,1,G,C,,Creature,Beast,,0,3,"Reach
+ When Arboreal Grazer enter the battlefield, you may put a land card from your hand onto the battlefield tapped.",D,1,F,0,227
+Blindblast,R,3,2R,C,,Instant,,,,,"Blindblast deals 1 damage to target creature. That creature can't block this turn.
+ Draw a card.",D+,1.33,D+,1.33,228
+Loxodon Sergeant,W,4,3W,C,,Creature,Elephant,Soldier,3,3,"Vigilance
+ When Loxodon Sergeant enter the battlefield, other creatures you control gain vigilance until end of turn.",C-,1.66,D+,1.33,229
+Primordial Wurm,G,6,4GG,C,,Creature,Wurm,,7,6,,D+,1.33,D,1,230
+Forced Landing,G,2,1G,C,,Instant,,,,,Put target creature with flying on the bottom of its owners library.,S,1,S,1,231
+Samut's Sprint,R,1,R,C,,Instant,,,,,Target creature gets +2/+1 and gains haste until end of turn. Scry 1.,D+,1.33,F,0,233
+Topple the Statue,W,3,2W,C,,Instant,,,,,"Tap target permanent. If it's an artifact, destroy it.
+ Draw a card.",S,1,S,1,234
+Davriel's Shadowfugue,B,4,3B,C,,Sorcery,,,,,Target player discards two cards and loses 2 life.,S,1,D,1,235
+Wall of Runes,U,1,U,C,,Creature,Wall,,0,4,"Defender
+ When Wall of Runes enters the battlefield, scry 1",D+,1.33,F,0,236
+Gideon's Sacrifice,W,1,W,C,,Instant,,,,,Choose a creature or planeswalker you control. All damage that would be dealt this turn to you and permanents you control is dealt to the chosen permanent instead (if it is still on the battlefield).,F,0,F,0,237
+Charmed Stray,W,1,W,C,,Creature,Cat,,1,1,"Lifelink
+ When Charmed Stray enters the battlefield, put a +1/+1 counter on each other creature you control named Charmed Stray.",D+,1.33,D-,0.66,239
+Steady Aim,G,2,1G,C,,Instant,,,,,Untap target creature. It gets +1/+4 and gains reach until end of turn.,D+,1.33,D-,0.66,240
+Ironclad Krovod,W,4,3W,C,,Creature,Beast,,2,5,,C-,1.66,D,1,242
+Goblin Assailant,R,2,1R,C,,Creature,Goblin,Warrior,2,2,,D+,1.33,D,1,243
+Return to Nature,G,2,1G,C,,Instant,,,,,"Choose one - 
+ - Destroy target artifact
+ - Destroy target enchantment
+ - Exile target card from a graveyard",S,1,S,1,244
+Nahiri's Stoneblades,R,2,1R,C,,Instant,,,,,Up to two target creatures each get +2/+0 until end of turn.,D,1,F,0,246
+Naga Eternal,U,3,2U,C,,Creature,Zombie,Naga,3,2,,D+,1.33,D-,0.66,247
+Banehound,B,1,B,C,,Creature,Nightmare,Hound,1,1,"Lifelink, Haste",BA,1,F,0,248
+Demolish,R,4,3R,C,,Sorcery,,,,,Destroy target artifact or land,F,0,F,0,249
