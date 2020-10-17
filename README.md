@@ -5,3 +5,4 @@ Magic is a trading card game that has players build unique decks of cards to sum
 
 Drafting is where a table of eight players will each start with 3 booster packs of 15 cards, select one card from the packs, and pass the rest of the cards to the person next to you. This will be repeated until all cards are selected from all of the booster packs. Once all the cards are selected, players will construct their decks and play against other people
 
+Requires the use of SQLite
